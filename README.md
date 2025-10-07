@@ -1,1 +1,1 @@
-# Scikit-PyTorch【end-toend】
+# Scikit-PyTorch【end-to-end】
